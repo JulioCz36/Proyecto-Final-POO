@@ -1,44 +1,42 @@
-# 🏎️ Run or Die - Proyecto Final de POO
+# 🏎️ Run or Die – Final Project for OOP
 
-Videojuego de carreras en 2D desarrollado como proyecto final para una materia de Programación Orientada a Objetos.  
-Fue elegido para aplicar todos los contenidos vistos en la cursada.
+2D racing video game developed as the final project for an Object-Oriented Programming course.
+It was chosen to apply all the concepts learned during the semester.
 
-## 🎯 Objetivo
+## 🎯 Objective
 
-Competir entre dos jugadores en 2 circuitos distintos (en codigo hay 4).  
-El jugador con el **mejor promedio de tiempo total** en las 2 carreras es el ganador.  
-Si logra un buen tiempo, podrá ingresar al **Top 10** del ranking, que se guarda en un archivo.
+Compete between two players on 2 different circuits (there are 4 in the code).
+The player with the best total average time over the 2 races wins.
+If they achieve a good time, they can enter the Top 10 ranking, which is saved to a file.
 
 ## 🎮 Mecánicas del juego
 
-- **2 jugadores**:
-  - Jugador 1: Flechas (`↑ ↓ ← →`)
-  - Jugador 2: Teclas `W A S D`
-- **Colisiones** entre autos
-- **Zonas fuera de pista**: reducen la velocidad
-- **Checkpoints** para registrar vueltas
-- **Sistema de cronómetro** por carrera
+- **2 players**:
+  - Player 1: Arrow keys (`↑ ↓ ← →`)
+  - Player 2: Keys `W A S D`
+- **Collisions** between cars
+- **Off-track zones**:  reduce speed
+- **Checkpoints** to register laps
+- **Lap timer** for each race
 
-## ⚙️ Contenidos aplicados de la materia
+## ⚙️ Course Content Applied
 
-- ✅ Punteros
-- ✅ Programación orientada a objetos
-- ✅ Sobrecarga de operadores
-- ✅ Archivo binario
+- ✅ Pointers
+- ✅ Object-Oriented Programming
+- ✅ Operator overloading
+- ✅ Binary file handling
 - ✅ Templates
 - ✅ STL (vector, sort, etc.)
 
-## ▶️ Cómo ejecutar
+## ▶️ How to Run
 
-1. Descargar la carpeta "Instalador".
-2. Dentro encontrarás todos los archivos necesarios y un archivo ejecutable (`RunOrDie.exe`).
-3. Ejecutá el `.exe` directamente para jugar.  
-   No requiere instalación ni configuración adicional.
+1. Download the "Installer" folder.
+2. Inside, you’ll find all the necessary files and an executable file (`RunOrDie.exe`).
+3. Run the `.exe` directly to play.  
+  No installation or additional configuration required.
 
-> ⚠️ Asegurate de no mover ni borrar los archivos que acompañan al ejecutable, ya que el juego depende de ellos para funcionar correctamente.
+> ⚠️Make sure not to move or delete the files that come with the executable, as the game depends on them to function properly.
 
 ## 👨‍💻 Autor
 
-- **JulioCZ**  
-- 2° Cuatrimestre – Año 2023
-- Ingeniería en Informática
+**JulioCZ** - Computer Engineering
